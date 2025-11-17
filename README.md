@@ -143,5 +143,3 @@ Utilizes torchvision.transforms including RandomHorizontalFlip, RandomRotation, 
   zakaria.omarar@student.unisg.ch  
 
 ---
-### _Disclaimer_ 
-LLM as Chat-GPT 4 and Claude  were used to generate helping functions and debugging.
